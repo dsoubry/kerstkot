@@ -2,14 +2,14 @@
 {
   "persons": [
     {
-      "name": "Voorbeeld - vervang dit",
-      "iban": "BE00000000000000"
+      "name": "David Soubry",
+      "iban": "BE49650941156671"
     }
   ],
   "drinks": [
     [2.5, "Cola / Jupiler / Koffie"],
-    [4, "Duvel / Wijn"],
-    [17, "Wijn fles"]
+    [4.0, "Duvel / Wijn"],
+    [17.0, "Wijn fles"]
   ],
   "deposits": [
     [2, "Beker"],
