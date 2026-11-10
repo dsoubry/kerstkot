@@ -17,6 +17,10 @@
     [
       7,
       "Straffe hendrik"
+    ],
+    [
+      10,
+      "test"
     ]
   ],
   "deposits": [
@@ -33,6 +37,5 @@
       "Glas"
     ]
   ],
-  "activeAccountIndex": 0,
-  "paymentType": "party"
+  "activeAccountIndex": 0
 }
