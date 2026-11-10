@@ -1,4 +1,3 @@
-
 {
   "persons": [
     {
@@ -7,14 +6,32 @@
     }
   ],
   "drinks": [
-    [2.5, "Cola / Jupiler / Koffie"],
-    [4.0, "Duvel / Wijn"],
-    [17.0, "Wijn fles"]
+    [
+      2.5,
+      "Cola / Jupiler / Koffie"
+    ],
+    [
+      4,
+      "Duvel / Wijn"
+    ],
+    [
+      17,
+      "Wijn fles"
+    ]
   ],
   "deposits": [
-    [2, "Beker"],
-    [1, "Shotglas"],
-    [5, "Glas"]
+    [
+      2,
+      "Beker"
+    ],
+    [
+      1,
+      "Shotglas"
+    ],
+    [
+      5,
+      "Glas"
+    ]
   ],
   "activeAccountIndex": 0,
   "paymentType": "party"
