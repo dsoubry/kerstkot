@@ -1,0 +1,21 @@
+
+{
+  "persons": [
+    {
+      "name": "Voorbeeld - vervang dit",
+      "iban": "BE00000000000000"
+    }
+  ],
+  "drinks": [
+    [2.5, "Cola / Jupiler / Koffie"],
+    [4, "Duvel / Wijn"],
+    [17, "Wijn fles"]
+  ],
+  "deposits": [
+    [2, "Beker"],
+    [1, "Shotglas"],
+    [5, "Glas"]
+  ],
+  "activeAccountIndex": 0,
+  "paymentType": "party"
+}
