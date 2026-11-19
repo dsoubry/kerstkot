@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "title": "Brugge · Simon Stevinplein",
+  "drinks": [
+    {
+      "name": "Rode wijn",
+      "cents": 600,
+      "category": "Wijnen"
+    },
+    {
+      "name": "Rode wijn (fles)",
+      "cents": 3000,
+      "category": "Wijnen"
+    },
+    {
+      "name": "Witte wijn",
+      "cents": 600,
+      "category": "Wijnen"
+    },
+    {
+      "name": "Witte wijn (fles)",
+      "cents": 3000,
+      "category": "Wijnen"
+    },
+    {
+      "name": "Cava",
+      "cents": 800,
+      "category": "Wijnen"
+    },
+    {
+      "name": "Cava (fles)",
+      "cents": 4000,
+      "category": "Wijnen"
+    },
+    {
+      "name": "Cecemel",
+      "cents": 350,
+      "category": "Warme dranken"
+    },
+    {
+      "name": "Cecemel + shot",
+      "cents": 700,
+      "category": "Warme dranken"
+    },
+    {
+      "name": "Glühwein",
+      "cents": 500,
+      "category": "Warme dranken"
+    },
+    {
+      "name": "Glühwein + shot",
+      "cents": 700,
+      "category": "Warme dranken"
+    },
+    {
+      "name": "Pomme Charelle / Hot Cider",
+      "cents": 600,
+      "category": "Warme dranken"
+    },
+    {
+      "name": "Koffie",
+      "cents": 300,
+      "category": "Warme dranken"
+    },
+    {
+      "name": "Koffie + shot",
+      "cents": 600,
+      "category": "Warme dranken"
+    },
+    {
+      "name": "Jenever Appel",
+      "cents": 350,
+      "category": "Jenever"
+    },
+    {
+      "name": "Jenever Citroen",
+      "cents": 350,
+      "category": "Jenever"
+    },
+    {
+      "name": "Jenever Krieken",
+      "cents": 350,
+      "category": "Jenever"
+    },
+    {
+      "name": "Jenever Cactus",
+      "cents": 350,
+      "category": "Jenever"
+    },
+    {
+      "name": "Jenever pink grapefruit",
+      "cents": 350,
+      "category": "Jenever"
+    },
+    {
+      "name": "Jenever Pasie-Mango",
+      "cents": 350,
+      "category": "Jenever"
+    },
+    {
+      "name": "Jenever Chocolade",
+      "cents": 350,
+      "category": "Jenever"
+    },
+    {
+      "name": "Jenever Hazelnoot",
+      "cents": 350,
+      "category": "Jenever"
+    },
+    {
+      "name": "Jenever Vanille",
+      "cents": 350,
+      "category": "Jenever"
+    },
+    {
+      "name": "Amaretto",
+      "cents": 600,
+      "category": "Likeur"
+    },
+    {
+      "name": "Limoncello",
+      "cents": 400,
+      "category": "Likeur"
+    },
+    {
+      "name": "Baileys",
+      "cents": 600,
+      "category": "Likeur"
+    },
+    {
+      "name": "Jägermeister",
+      "cents": 500,
+      "category": "Likeur"
+    },
+    {
+      "name": "Triple sec",
+      "cents": 500,
+      "category": "Likeur"
+    },
+    {
+      "name": "Brugge tripel (vat)",
+      "cents": 700,
+      "category": "Bieren"
+    },
+    {
+      "name": "Estaminet (vat)",
+      "cents": 300,
+      "category": "Bieren"
+    },
+    {
+      "name": "Fruitage (vat)",
+      "cents": 500,
+      "category": "Bieren"
+    },
+    {
+      "name": "Steenbrugge blond (vat)",
+      "cents": 600,
+      "category": "Bieren"
+    },
+    {
+      "name": "Cornet",
+      "cents": 600,
+      "category": "Bieren"
+    },
+    {
+      "name": "Steenbrugge Bruin",
+      "cents": 600,
+      "category": "Bieren"
+    },
+    {
+      "name": "Estaminet 0,0",
+      "cents": 350,
+      "category": "Bieren"
+    },
+    {
+      "name": "Fruitage 0,0",
+      "cents": 400,
+      "category": "Bieren"
+    },
+    {
+      "name": "Bru plat",
+      "cents": 250,
+      "category": "Frisdrank"
+    },
+    {
+      "name": "Bru bruis",
+      "cents": 250,
+      "category": "Frisdrank"
+    },
+    {
+      "name": "Cola",
+      "cents": 300,
+      "category": "Frisdrank"
+    },
+    {
+      "name": "Fanta",
+      "cents": 300,
+      "category": "Frisdrank"
+    },
+    {
+      "name": "Sprite",
+      "cents": 300,
+      "category": "Frisdrank"
+    },
+    {
+      "name": "Tonic",
+      "cents": 300,
+      "category": "Frisdrank"
+    },
+    {
+      "name": "Gin Mixer",
+      "cents": 1200,
+      "category": "Mixers"
+    },
+    {
+      "name": "Rum Mixer",
+      "cents": 1200,
+      "category": "Mixers"
+    },
+    {
+      "name": "J&B mixer",
+      "cents": 1200,
+      "category": "Mixers"
+    },
+    {
+      "name": "Limoncello Spritz",
+      "cents": 1200,
+      "category": "Mixers"
+    },
+    {
+      "name": "Aperol Spritz",
+      "cents": 1200,
+      "category": "Mixers"
+    }
+  ],
+  "deposits": [
+    {
+      "name": "Glas wijn & Cava",
+      "cents": 300
+    },
+    {
+      "name": "Glas Glühwein",
+      "cents": 500
+    },
+    {
+      "name": "Pils",
+      "cents": 300
+    },
+    {
+      "name": "Bier",
+      "cents": 500
+    },
+    {
+      "name": "Beker",
+      "cents": 300
+    },
+    {
+      "name": "Shotglas",
+      "cents": 300
+    }
+  ]
+}
