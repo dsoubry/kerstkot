@@ -3,22 +3,12 @@
   "title": "Brugge · Simon Stevinplein",
   "drinks": [
     {
-      "name": "Rode wijn",
+      "name": "wijn",
       "cents": 600,
       "category": "Wijnen"
     },
     {
-      "name": "Rode wijn (fles)",
-      "cents": 3000,
-      "category": "Wijnen"
-    },
-    {
-      "name": "Witte wijn",
-      "cents": 600,
-      "category": "Wijnen"
-    },
-    {
-      "name": "Witte wijn (fles)",
+      "name": "wijn (fles)",
       "cents": 3000,
       "category": "Wijnen"
     },
@@ -68,47 +58,7 @@
       "category": "Warme dranken"
     },
     {
-      "name": "Jenever Appel",
-      "cents": 350,
-      "category": "Jenever"
-    },
-    {
-      "name": "Jenever Citroen",
-      "cents": 350,
-      "category": "Jenever"
-    },
-    {
-      "name": "Jenever Krieken",
-      "cents": 350,
-      "category": "Jenever"
-    },
-    {
-      "name": "Jenever Cactus",
-      "cents": 350,
-      "category": "Jenever"
-    },
-    {
-      "name": "Jenever pink grapefruit",
-      "cents": 350,
-      "category": "Jenever"
-    },
-    {
-      "name": "Jenever Pasie-Mango",
-      "cents": 350,
-      "category": "Jenever"
-    },
-    {
-      "name": "Jenever Chocolade",
-      "cents": 350,
-      "category": "Jenever"
-    },
-    {
-      "name": "Jenever Hazelnoot",
-      "cents": 350,
-      "category": "Jenever"
-    },
-    {
-      "name": "Jenever Vanille",
+      "name": "Jenevers",
       "cents": 350,
       "category": "Jenever"
     },
@@ -178,36 +128,16 @@
       "category": "Bieren"
     },
     {
-      "name": "Bru plat",
+      "name": "Water",
       "cents": 250,
       "category": "Frisdrank"
     },
     {
-      "name": "Bru bruis",
-      "cents": 250,
-      "category": "Frisdrank"
-    },
-    {
-      "name": "Cola",
+      "name": "Cola / Fanta / Sprite / Tonic",
       "cents": 300,
       "category": "Frisdrank"
     },
-    {
-      "name": "Fanta",
-      "cents": 300,
-      "category": "Frisdrank"
-    },
-    {
-      "name": "Sprite",
-      "cents": 300,
-      "category": "Frisdrank"
-    },
-    {
-      "name": "Tonic",
-      "cents": 300,
-      "category": "Frisdrank"
-    },
-    {
+        {
       "name": "Gin Mixer",
       "cents": 1200,
       "category": "Mixers"
