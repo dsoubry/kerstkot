@@ -1,0 +1,24 @@
+KERSTKOT — INSTALLEREN ALS SMARTPHONE-APP
+
+1. Upload deze 8 bestanden naar de HOOFDMAP van github.com/dsoubry/kerstkot:
+   - DrankenRekenmachine.html (bestaande versie vervangen)
+   - manifest.webmanifest
+   - service-worker.js
+   - kerstboom-180.png
+   - kerstboom-192.png
+   - kerstboom-512.png
+   - rekenmachine_config.json (bestaande behouden als daar prijzen zijn gewijzigd!)
+
+2. Open https://dsoubry.github.io/kerstkot/DrankenRekenmachine.html
+
+Android (Chrome): ⋮ > Toevoegen aan startscherm / App installeren > Installeren.
+iPhone (Safari): Delen > Zet op beginscherm > Voeg toe.
+
+Het icoon wordt de kerstboom. De app opent zonder browserbalk wanneer als webapp geïnstalleerd.
+De prijzen blijven centraal beheerd in rekenmachine_config.json.
+Online wordt telkens de recente configuratie opgehaald. Offline kan een eerdere in cache bewaarde
+prijslijst gebruikt worden; controleer bij opnieuw verbinden of de prijzen actueel zijn.
+Installatie werkt via HTTPS (GitHub Pages ondersteunt dat). iPhone vereist Safari voor deze handeling.
+
+LET OP: vervang de bestaande rekenmachine_config.json NIET als er al prijzen gewijzigd zijn op GitHub.
+De bestaande PayMe.html en config.json hoeven niet gewijzigd te worden.
